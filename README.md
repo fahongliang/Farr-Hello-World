@@ -4,4 +4,4 @@ Computer language beginners
 
 Hello everyone
 I am a computer beginner.
-Hope to make friends and learn computer together。
+I'm learning data analysis and mining rencently.
